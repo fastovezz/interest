@@ -1,0 +1,22 @@
+Assumptions:
+
+S = P + I
+
+S - gained investment amount;
+P - capital, or initial investment amount;
+I - simple interest over period:
+
+I = P*n*i
+
+n - investment period, measured in years;
+i - interest rate per annum:
+
+i = f(P)
++---------------------------------+---------------------------------+----------------------------+
+| Minimum investment amount, Pmin | Maximum investment amount, Pmax | Interest rate p.a., i=f(P) |
++---------------------------------+---------------------------------+----------------------------+
+| £0                              | £1000                           | 1.0%                       |
+| £1000                           | £10000                          | 1.5%                       |
+| £10000                          | £100000                         | 2.5%                       |
+| £100000                         | no limit                        | 5.0%                       |
++---------------------------------+---------------------------------+----------------------------+
