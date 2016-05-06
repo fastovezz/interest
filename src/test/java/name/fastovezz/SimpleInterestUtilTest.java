@@ -5,7 +5,7 @@ import org.junit.Test;
 import java.util.Currency;
 import java.util.Locale;
 
-import static junit.framework.Assert.*;
+import static org.junit.Assert.*;
 import static name.fastovezz.Money.money;
 import static name.fastovezz.SimpleInterestUtil.*;
 
